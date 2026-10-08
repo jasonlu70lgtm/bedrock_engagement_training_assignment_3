@@ -43,7 +43,7 @@ Create your own branch using this naming convention:
 Example:
 
 ```bash
-git checkout -b jasonlu_kpmg_bedrock
+git checkout -b jasonlu7_kpmg_bedrock
 ```
 
 > **Important:** Do not commit or push directly to `main`.
