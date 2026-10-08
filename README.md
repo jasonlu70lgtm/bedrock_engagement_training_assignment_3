@@ -1,6 +1,3 @@
-# bedrock_engagement_training_assignment_3
-Assignment 3; Notebook LM Agent And Git Workflow
-
 # Assignment #3: Notebook LM Agent and Git Workflow
 
 **Due date:** October 9, 2026, by end of day  
